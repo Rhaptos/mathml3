@@ -1,0 +1,22 @@
+Source: connexions-mathml-3.0
+Section: text
+Priority: optional
+Maintainer: Ross J. Reedstrom <reedstrm@rice.edu>
+Build-Depends: debhelper (>> 4.0.0)
+Standards-Version: 3.6.1.0
+
+
+Package: connexions-mathml-3.0
+Architecture: all
+Depends: ${misc:Depends}
+Suggests: connexions-cnxml, connexions-bibtexml, connexions-qml
+Provides: connexions-mathml
+Description: Mathematical Markup Language V3.0 RelaxNG
+ A Connexions packaging of the Mathematical Markup Language
+ (MathML) V3.0 is an XML application for describing
+ mathematical notation and capturing both its structure and
+ content.
+ .
+ Author: W3C Math Working Group <www-math@w3.org>
+ .
+ Homepage: http://www.w3.org/TR/MathML3/

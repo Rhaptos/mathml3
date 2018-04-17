@@ -1,0 +1,2 @@
+MathML3 (Connexions packaging 1.0)
+  - Initial release
