@@ -1,3 +1,9 @@
+connexions-mathml-3.0 (3.1.1-1) unstable; urgency=low
+
+    * Disable "anyElement" (avoid ID collisions)
+
+ -- Ross J. Reedstrom <reedstrm@cnx.org>  Wed, 25 Apr 2018 15:20:03 -0500
+
 connexions-mathml-3.0 (3.1.0-1) unstable; urgency=low
 
     * Initial packaging Mathml 3.0
